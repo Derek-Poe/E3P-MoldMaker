@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv*/
+build/
+dist/
+.ruff_cache/
+.pytest_cache/
+demo-output/
+verification-output/
+test-output/
+*.stl
+/e3p_studio_runs/
+*.blend
+*.blend1
+e3p_defaults.json
+*.log

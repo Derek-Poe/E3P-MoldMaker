@@ -1,0 +1,8 @@
+{
+  "name": "E3P Blender Mold",
+  "author": "Derek Poe",
+  "version": "0.2.0",
+  "description": "Generate split mold pieces from an original STL using a configured external Python and Blender installation.",
+  "supported_sdk_versions": ["8.12.0"],
+  "i18n-catalog": "cura"
+}
